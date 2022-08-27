@@ -1,0 +1,3 @@
+Para la plataforma de la izquierda los controles son: w y s
+
+Para la plataforma de la derecha los controles son: flecha arriba y abajo
